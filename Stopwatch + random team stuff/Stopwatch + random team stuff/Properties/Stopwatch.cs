@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stopwatch.Properties
+namespace Stopwatch1
 {
     internal class Stopwatch
     {
